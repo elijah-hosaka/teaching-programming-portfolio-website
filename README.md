@@ -1,4 +1,4 @@
-# teaching-programming-portfolio-website
+# Teaching Programming Portfolio Website
 
 Show What You Know: Explain Your Program: https://youtu.be/9XosjGaQlac
 
