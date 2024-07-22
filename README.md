@@ -11,3 +11,5 @@ Nested Repeats: https://youtube.com/shorts/7Kpsj2fnBQc?feature=share
 Events: https://youtu.be/-lfB7CQ_Cng
 
 Variables: https://youtu.be/L0v7L_LMc8U
+
+Conditional Loops: https://youtu.be/Xs0NBKs3Sck
