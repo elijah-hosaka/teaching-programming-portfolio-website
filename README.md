@@ -17,3 +17,5 @@ Conditional Loops: https://youtu.be/Xs0NBKs3Sck
 If Else: https://youtu.be/144OZ_6Vp2k
 
 Nested If/Else: https://youtu.be/0mtzW2HGhfQ
+
+Compound Conditionals: https://youtu.be/NpKCiFLWePE
