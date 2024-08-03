@@ -21,3 +21,5 @@ Nested If/Else: https://youtu.be/0mtzW2HGhfQ
 Compound Conditionals: https://youtu.be/NpKCiFLWePE
 
 Abstraction: https://youtu.be/BpUIObBXRSQ
+
+Lists: https://youtu.be/YyAmvXRUI_o
